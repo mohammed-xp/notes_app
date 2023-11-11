@@ -15,6 +15,7 @@ class NotesApp extends StatelessWidget {
         brightness: Brightness.dark,
         fontFamily: 'Poppins',
       ),
+      debugShowCheckedModeBanner: false,
       home: const NotesView(),
     );
   }
