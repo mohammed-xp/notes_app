@@ -28,7 +28,7 @@ class CustomNoteItem extends StatelessWidget {
                 'Build your career with Mohammed Adil',
                 style: TextStyle(
                     color: Colors.black.withOpacity(0.5),
-                    fontSize: 20
+                    fontSize: 18
                 ),
               ),
             ),
